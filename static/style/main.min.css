@@ -1,0 +1,14 @@
+body{background-color:rgb(250, 250, 235);font-family:sans-serif;}
+.table{display:table;}
+.header{display:table-header-group;}
+.footer{display:table-footer-group;}
+.row{display:table-row;}
+.cell{display:table-cell;padding:5px;}
+.yellow{border:2px;border-color:rgb(150, 150, 255);border-style:solid;background-color:rgb(255, 255, 150);}
+.green{border:2px;border-color:rgb(150, 150, 255);border-style:solid;background-color:rgb(150, 255, 150);}
+.blue{border:2px;border-color:rgb(150, 150, 255);border-style:solid;background-color:rgb(150, 150, 255);}
+.red{border:2px;border-color:rgb(150, 150, 255);border-style:solid;background-color:rgb(255, 150, 150);}
+.Yes{border:2px;border-color:rgb(150, 150, 255);border-style:solid;background-color:rgb(150, 255, 150);}
+.No{border:2px;border-color:rgb(150, 150, 255);border-style:solid;background-color:rgb(255, 150, 150);}
+.NoVote{border:2px;border-color:rgb(150, 150, 255);border-style:solid;background-color:rgb(255, 255, 150);}
+.all-centered{text-align:center;vertical-align:middle;}
